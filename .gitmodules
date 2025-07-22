@@ -1,0 +1,6 @@
+[submodule "Foundry/Ethereum/Counter/lib/forge-std"]
+	path = Foundry/Ethereum/Counter/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Foundry/Ethereum/Storage/lib/forge-std"]
+	path = Foundry/Ethereum/Storage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
